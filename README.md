@@ -8,7 +8,9 @@ Contact <br>
 </div>
 
 <h2> Experience </h2>
-[Traning] [AI based AWS Cloud WebService Development - fourth term] (2025.06.30 ~ 2025.07.25) <br>
+[Traning] [AI based AWS Cloud WebService Development - fourth term] (2025.06.30 ~ 2025.07.25) 
+<a href="./files/AWS_cloud_certification.pdf"><img src="https://img.shields.io/badge/PDF-EA4335?style=flat-square&logo=adobeacrobatreader&logoColor=white"/></a><br>
+<br>
 [Circle] [Nimda Security] [Vice President] (2026.03 ~ ) <br>
 
 <h2> Project </h2>
