@@ -8,7 +8,7 @@ Contact <br>
 </div>
 
 <h2> Experience </h2>
-[Traning] [AI based AWS Cloud WebService Development - fourth term] (2025.06.30 ~ 2025.07.25)
+[Traning] [AI based AWS Cloud WebService Development - fourth term] (2025.06.30 ~ 2025.07.25) <br>
 [Circle] [Nimda Security] [Vice President] (2026.03 ~ ) <br>
 
 <h2> Project </h2>
