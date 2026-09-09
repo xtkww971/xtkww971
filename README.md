@@ -15,17 +15,16 @@ Contact <br>
 
 <h2> Project </h2>
 
-### [프로젝트 이름 영문 1]
-- Link : [링크 이름](URL 링크) <!-- 배포된 링크나 시연 영상이 없다면 삭제 -->
-- Feature : [어떤 프로젝트인지 1~2줄 요약 설명]
-- Role : [본인의 역할, ex: Team Leader, FrontEnd]
-- Tech : [사용한 기술 스택, ex: Spring Boot, MySQL, Java, React]
-- Date : `202X.0X` ~ `202X.0X`
-- Description : [프로젝트를 통해 구현한 핵심 내용이나 본인의 기여도에 대한 간단한 설명]
+### [Nimda-Security Web Service]
+- Link : [[Nimda Security Web](https://github.com/Nimda-Security/Nimda)]
+- Feature : An internal community platform for security club members, integrated with a CTF server to manage problem solving, real-time scoreboards, and knowledge sharing.
+- Role : [Backend Engineer]
+- Tech : [Spring Boot, MySQL, Java, AWS, Docker, Nginx]
+- Date : `2025.09` ~ 
 
-### [프로젝트 이름 영문 2]
-- Feature : [어떤 프로젝트인지 1~2줄 요약 설명]
-- Role : [ex: Personal Project 또는 Team Member]
-- Tech : [사용한 기술 스택]
-- Date : `202X.0X` ~ `202X.0X`
-- Description : [프로젝트를 통해 구현한 핵심 내용이나 본인의 기여도에 대한 간단한 설명]
+### [CTF Server]
+- Link : [[CTF Server](https://github.com/Nimda-Security/Nimda-CTF)]
+- Feature : A microservice-based CTF challenge core platform designed to handle problem serving, flag verification, and real-time score calculation independently from the main community service.
+- Role : [Backend Engineer,  Infrastructure Engineer]
+- Tech : [Go ,AWS , Docker, Redis]
+- Date : `2026.07` ~ 
