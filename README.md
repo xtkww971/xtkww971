@@ -3,7 +3,7 @@
 [Kongju University] [Computer Science] <br> 
 
 Contact <br>
-<a href="mailto:xtkww97178@gmail.com"><img src="https://img.shields.io/badge/Gmail-xtkww97178@gmail.com]-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a><br>
+<a href="mailto:xtkww97178@gmail.com"><img src="https://img.shields.io/badge/Gmail-xtkww97178@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a><br>
 <a href="https://xtkww971.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a><br>
 </div>
 
